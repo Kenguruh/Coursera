@@ -1,2 +1,2 @@
 # coursera-test
-Coursera test repo
+This repo contains the assignment works from my Coursera classes
